@@ -14,9 +14,10 @@ This is a research project that explores human echolocation within a Virtual Aco
 - Listening tests to evaluate perception of a nearby virtual wall.
 
 ### Figure 1.
-![OBRIR Generation](doc/figures/model.jpg)
+<img src="doc/figures/model.jpg" alt="OBRIR Generation" width="500">
+
 ### Figure 2.
-![System Design](doc/figures/system.jpg)
+<img src="doc/figures/system.jpg" alt="System Design" width="500">
 
 ## Technical Specifications
 - Pybinsim (see the origin project here: https://github.com/pyBinSim/pyBinSim)
