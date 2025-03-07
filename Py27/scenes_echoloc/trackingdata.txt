@@ -1,0 +1,8 @@
+++++ scene1_echoloc_1wall_row  started +++++++++++  2017-07-10T18:48:30.057588
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:16:17.280607
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:16:26.649607
+++++ scene1_echoloc_Room1middle_row +++++++++++  2018-05-04T16:16:43.425607
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:17:35.813607
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:17:42.934607
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:17:52.592607
+++++ scene1_echoloc_1wall_row  started +++++++++++  2018-05-04T16:17:53.409607

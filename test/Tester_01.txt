@@ -1,0 +1,42 @@
+++++ Tracking 1wall_sep started +++++++++++  2018-05-14T17:02:52.993064
+Chosen Orientation
+2018-05-14T17:02:54.414064  Yaw = 17 Filterset 25 PosZ 1.1599206924438477PosX -1.4632771015167236
+angleOffSet= 0
+Chosen Orientation
+2018-05-14T17:02:55.453064  Yaw = 17 Filterset 25 PosZ 1.1598539352416992PosX -1.4630950689315796
+angleOffSet= 0
+++++ Tracking 1wall_sep started +++++++++++  2018-05-14T17:08:16.404064
+Chosen Orientation
+2018-05-14T17:08:41.905064  Yaw = 16 Filterset 25 PosZ 1.1622331142425537PosX -1.4636460542678833
+angleOffSet= 180
+Chosen Orientation
+2018-05-14T17:08:42.207064  Yaw = 16 Filterset 25 PosZ 1.162268877029419PosX -1.4636456966400146
+angleOffSet= 180
+Chosen Orientation
+2018-05-14T17:08:42.397064  Yaw = 16 Filterset 25 PosZ 1.1623470783233643PosX -1.463767170906067
+angleOffSet= 180
+Chosen Orientation
+2018-05-14T17:08:43.581064  Yaw = 16 Filterset 25 PosZ 1.1622223854064941PosX -1.4636776447296143
+angleOffSet= 180
+++++ Tracking 1wall_sep started +++++++++++  2018-05-14T17:32:46.035064
+++++ Tracking 1wall_sep started +++++++++++  2018-05-14T17:33:38.203064
+++++ Tracking 1wall_sep started +++++++++++  2018-05-14T17:57:27.602064
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T11:41:40.006116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T11:44:02.651116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T11:52:16.507116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T12:28:12.679116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T13:41:42.595116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T14:20:19.433116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T14:26:57.686116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T14:28:28.626116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T14:51:16.532116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:06:05.092116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:19:40.295116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:24:51.813116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:33:10.494116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:35:54.602116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T15:47:11.308116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T16:03:20.566116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T16:03:55.447116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T16:05:59.329116
+++++ Tracking 1wall_sep started +++++++++++  2018-05-15T16:06:48.878116

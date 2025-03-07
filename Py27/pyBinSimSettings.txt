@@ -1,0 +1,7 @@
+soundfile signals\SherlockHolmesCUT_mono.wav
+blockSize 1024
+filterSize 16384
+filterList brirs\MeasOBRIR_44100_anechoic1wall_4deg\Filterlist_Meas_OBRIRs44100_anechoic1Wall_row.txt
+enableCrossfading True
+useHeadphoneFilter False 999 999 999
+loudnessFactor 1
